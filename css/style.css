@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0%;
+    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: rgb(15, 20, 58);
+}
+
+h2 {
+    margin: center;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;   
+    color: rgb(134, 59, 255);
+
+}
+
+.centro p {
+    font-size: 16px;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin: center;
+    text-decoration-color: white;
+}
+.h3 {
+    color: white;
+}
+
+h4 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: rgb(134, 59, 255);
+}
+
+h5 {
+    background-color: rgb(6, 6, 31);
+    width: 100%;
+    box-shadow: 0 0 10px #050414;
+    width: 100%; 
+     text-align: center;
+     text-transform: uppercase;
+     font-size: 16px;
+     color: #ffffff;
+}
+
+
+.teste{
+    margin: auto;
+    margin-left: center;
+}
+
+header {
+    background-color: #fff;
+    width: 100%;
+    box-shadow: 0 0 10px #ccc;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    
+}
+
+.centro {
+    width: 1000px;
+    margin: auto;
+}
+
+#ProjetoBugFromHell{
+    background-color: #f1f1f1;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+nav ul strong{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 40px;
+}
+strong a{
+    color: rgb(134, 59, 255);
+    text-decoration: none;
+    font-size: arial;
+
+
+}
